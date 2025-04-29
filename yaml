@@ -1,0 +1,12 @@
+# Project Structure :
+
+| File                            | Role                                                |
+|---------------------------------|-----------------------------------------------------|
+| `data_extraction.py`            | Load data, preprocess, create index, search         |
+| `functions.py`                  | All helper functions                                |
+| `bbc_news_20220307_20240703.csv`| Data file                                           |
+| `README.md`                     | Project description                                 |
+
+-----------------------------------------------------------------------------------------
+
+
