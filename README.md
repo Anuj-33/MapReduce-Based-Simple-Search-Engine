@@ -23,6 +23,28 @@ data_extraction.py — Main program.
 
 functions.py — Text processing, indexing, and search functions.
 
+# Output 
+--------------------------------------------------
+Enter a word to search (or type 'exit' to quit): india
+Document ID: 6747
+Snippet: britain left india 75 years ago and the
+Relevance Score (Word Count): 2
+--------------------------------------------------
+Document ID: 361
+Snippet: from an airstrike bunker to his mum's relieved hugs, vishnu tells how he and his dog fled ukraine to...
+Relevance Score (Word Count): 1
+--------------------------------------------------
+Document ID: 505
+Snippet: with a four-wicket hammering of india in mount maunganui.
+Relevance Score (Word Count): 1
+--------------------------------------------------
+Document ID: 674
+Snippet: from blue tokai to sleepy owl, a new wave of homegrown coffee roasters are finding success in india....
+Relevance Score (Word Count): 1
+--------------------------------------------------
+... and so on
+
+
 # Areas of Improvement (Future Work)
 Add support for multi-word search queries.
 
