@@ -24,6 +24,7 @@ data_extraction.py — Main program.
 functions.py — Text processing, indexing, and search functions.
 
 # Output 
+
 --------------------------------------------------
 Enter a word to search (or type 'exit' to quit): india
 Document ID: 6747
